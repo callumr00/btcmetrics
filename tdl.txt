@@ -1,0 +1,35 @@
+Implement
+    uniformity in layout / structure in scripts
+
+    avg tx fee/block
+        (coinbase - subsidy) / nTx
+        to get coinbase do similar to blockInfo.py but w/ first tx of each block
+
+    miner revenue/block
+        coinbase + subsidy
+------------------------------------------------
+Improve
+    inflation.py
+        fix axes
+        btc inflation vs u.s. cpi
+
+    difficulty.py
+        fix axes
+        + adjustment change as pct
+
+    networkHashes.py
+        getnetworkhashps (nblocks,height)
+        getnetworkhashps (0,0-maxHeight)
+
+    nTXpS.py
+
+    nTxEver
+        fix axes
+
+    blockInfo.py
+        write data periodically
+------------------------------------------------
+Bugs
+
+    blockchainInfo.py
+        getnetworkhashps
