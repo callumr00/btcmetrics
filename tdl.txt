@@ -17,6 +17,11 @@ Improve
         fix axes
         + adjustment change as pct
 
+    blockinfo.py
+        chainwork convert from hex***
+        get data from (blockheight-6)
+        combine with coinbase.py
+
     networkHashes.py
         getnetworkhashps (nblocks,height)
         getnetworkhashps (0,0-maxHeight)
