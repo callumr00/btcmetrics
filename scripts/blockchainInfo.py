@@ -22,7 +22,7 @@ def getBlockDifficulty():
 
 def getSize():
     blockchainInfo              = rpc.getblockchaininfo()
-    size                   = blockchainInfo['size_on_disk']
+    size                        = blockchainInfo['size_on_disk']
     print('Block Size           : ' + str(round(size/(1024**3),2)) + ' GB')
     return size
 # getSize()

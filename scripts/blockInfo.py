@@ -10,6 +10,7 @@ import numpy  as np
 import pandas as pd
 
 from pathlib import Path
+from tqdm import tqdm
 
 import os
 # --------------------------------------------------------------------------------------
@@ -44,7 +45,7 @@ def getBlockInfo(minHeight):
     print('> ' + str(len(blockHeightTDL)) + ' blocks required; getting data...')
 
     # get data from blocks in to do list
-    for item in list(blockHeightTDL):
+    for item in tqdm(range(minHeight,maxHeight)):
 
         blockHash = rpc.getblockhash(int(list(blockHeight)[item]))
         blockInfo = rpc.getblock(blockHash)
