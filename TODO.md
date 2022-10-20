@@ -5,6 +5,7 @@
 
 ### Data Extraction
 * Integrate Supply Inflation chart into ChartSettings.py instead of it being a standalone script
+* Make API calls to get Bitcoin price
 
 ### Data Visualization
 * Format numbers (1000 -> 1,000)
