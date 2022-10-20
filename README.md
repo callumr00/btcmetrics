@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Bitcoin Metrics
 
 ## About
@@ -13,37 +12,37 @@ Time To Mine Each Bitcoin Block
 ![Time To Mine Each Bitcoin Block](https://github.com/callumr00/btcmetrics/blob/main/docs/img/1.png)
 
 Size of Each Bitcoin Block
-![Size of Each Bitcoin Block](https://github.com/callumr00/btcmetrics/blob/main/docs/img/1.png)
+![Size of Each Bitcoin Block](https://github.com/callumr00/btcmetrics/blob/main/docs/img/2.png)
 
 Weight of Each Bitcoin Block
-![Weight of Each Bitcoin Block](https://github.com/callumr00/btcmetrics/blob/main/docs/img/1.png)
+![Weight of Each Bitcoin Block](https://github.com/callumr00/btcmetrics/blob/main/docs/img/3.png)
 
 Difficulty of Each Bitcoin Block
-![Difficulty of Each Bitcoin Block](https://github.com/callumr00/btcmetrics/blob/main/docs/img/1.png)
+![Difficulty of Each Bitcoin Block](https://github.com/callumr00/btcmetrics/blob/main/docs/img/4.png)
 
 Number of Transactions in Each Bitcoin Block
-![Number of Transactions in Each Bitcoin Block](https://github.com/callumr00/btcmetrics/blob/main/docs/img/1.png)
+![Number of Transactions in Each Bitcoin Block](https://github.com/callumr00/btcmetrics/blob/main/docs/img/5.png)
 
 Total Number of Transactions on the Bitcoin Blockchain
-![Total Number of Transactions on the Bitcoin Blockchain](https://github.com/callumr00/btcmetrics/blob/main/docs/img/1.png)
+![Total Number of Transactions on the Bitcoin Blockchain](https://github.com/callumr00/btcmetrics/blob/main/docs/img/6.png)
 
 Bitcoin Issuance Schedule
-![Bitcoin Issuance Schedule](https://github.com/callumr00/btcmetrics/blob/main/docs/img/1.png)
+![Bitcoin Issuance Schedule](https://github.com/callumr00/btcmetrics/blob/main/docs/img/7.png)
 
 Bitcoin Supply Inflation
-![Bitcoin Supply Inflation](https://github.com/callumr00/btcmetrics/blob/main/docs/img/1.png)
+![Bitcoin Supply Inflation](https://github.com/callumr00/btcmetrics/blob/main/docs/img/8.png)
 
 Average Transaction Fee in Each Bitcoin Block
-![Average Transaction Fee in Each Bitcoin Block](https://github.com/callumr00/btcmetrics/blob/main/docs/img/1.png)
+![Average Transaction Fee in Each Bitcoin Block](https://github.com/callumr00/btcmetrics/blob/main/docs/img/9.png)
 
 Sum of Transaction Fees in Each Bitcoin Block
-![Sum of Transaction Fees in Each Bitcoin Block](https://github.com/callumr00/btcmetrics/blob/main/docs/img/1.png)
+![Sum of Transaction Fees in Each Bitcoin Block](https://github.com/callumr00/btcmetrics/blob/main/docs/img/10.png)
 
 Sum of Transaction Fees in Each Bitcoin Block as a % of the Coinbase Amount
-![Sum of Transaction Fees in Each Bitcoin Block as a % of the Coinbase Amount](https://github.com/callumr00/btcmetrics/blob/main/docs/img/1.png)
+![Sum of Transaction Fees in Each Bitcoin Block as a % of the Coinbase Amount](https://github.com/callumr00/btcmetrics/blob/main/docs/img/11.png)
 
 Coinbase Amount in Each Bitcoin Block
-![Coinbase Amount in Each Bitcoin Block](https://github.com/callumr00/btcmetrics/blob/main/docs/img/1.png)
+![Coinbase Amount in Each Bitcoin Block](https://github.com/callumr00/btcmetrics/blob/main/docs/img/12.png)
 
 ## Setup
 ### Cloning the project
