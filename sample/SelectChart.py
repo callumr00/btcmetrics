@@ -19,7 +19,6 @@ from ChartSettings import (
                             ChartBlockCoinbase,
                             )
 
-c
 project = os.path.basename(os.path.dirname(os.path.dirname(__file__)))
 script, _ = os.path.splitext(os.path.basename(__file__))
 print('\n', f'{project} | {script}'.center(os.get_terminal_size().columns, ' '))

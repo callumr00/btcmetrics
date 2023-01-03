@@ -24,4 +24,4 @@
 * Added Block Reward fo each block
 
 ### Tests
-* Added cest: BlockData
+* Added test: BlockData
