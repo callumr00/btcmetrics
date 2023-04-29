@@ -5,6 +5,7 @@
 BitcoinMetrics uses Python to extract and visualize data from the Bitcoin Blockchain.
 * It connects to a Bitcoin node and makes rpc calls to get block data and stores the data in a csv file.
 * It retrieves selected data from the csv file to use in chart visualizations.
+* The dataset and charts are available on Kaggle, <a href='https://www.kaggle.com/datasets/callumrafter/bitcoin-block-data'>here</a> and <a href='https://www.kaggle.com/code/callumrafter/displaying-bitcoin-block-data'>here</a> respectively.
 
 ## Examples
 
